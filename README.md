@@ -43,3 +43,16 @@ AlexNet
              ReLU-19                 [-1, 4096]               0  
            Linear-20                    [-1, 2]           8,194  
 ![image](https://user-images.githubusercontent.com/123912496/215446342-e43cc868-4aa0-41e4-bd05-42d1fb030da5.png)
+
+# Demo video
+
+## We actually shot a video containing  cracks and processed it with our method. Here are the original video and the video processed with our method.
+
+### original video
+
+https://user-images.githubusercontent.com/123912496/217747704-e146532c-497e-4a42-8a77-a296317f0714.mp4
+
+### Post-processing video
+
+https://user-images.githubusercontent.com/123912496/217757140-69f430a2-aa3c-4b71-9d6b-acb4727e2441.mp4
+
